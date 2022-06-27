@@ -1,5 +1,5 @@
 ## It's-a me! **Luigi Nicoletti** 
-###### I'm a former professional [PUBG](https://youtube.com/nicolettifps) player in career transition, since *01/04/2002* I've been studying about 14 hours a day and I'm looking for an opportunity!
+###### I'm a former professional [PUBG](https://youtube.com/nicolettifps) player in career transition, since *01/04/2022* I've been studying about 14 hours a day and I'm looking for an opportunity!
 
 <div align="center">
   <a href="https://github.com/Luiginicoletti/luiginicoletti">
