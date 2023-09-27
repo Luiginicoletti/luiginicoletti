@@ -1,5 +1,14 @@
 ## It's-a me! **Luigi Nicoletti** 
-###### I'm a former professional [PUBG](https://youtube.com/nicolettifps) player.
+###### Desenvolvedor frontend, buscando excelência em React/Next
+
+Ex atleta profissional de esports, nos ultimos 5 anos dediquei-me ao cenário competitivo dos esportes eletronicos, disputei diversos campeonatos onde atuei como IGL (In-game Leader) de diversas equipes internacionais e tive o prazer de desenvolver habilidades valiosas que hoje quero trazer para o mundo dev. [PUBG](https://youtube.com/nicolettifps)
+
+Onde a determinação, o trabalho em equipe, capacidade de adaptação e resolução de problemas complexos em uma janela minúscula de oportunidade são qualidades essenciais para enfrentar desafios e alcançar resultados excepcionais.
+
+Estudando engenharia de software pela Alura e Next bff.
+
+Conhecimentos:
+REACT/NEXT | REACT NATIVE | REDUX | DOCKER/GIT | TDD | MICROSSERVICES | SASS/TAILWIND | JS/TS | HANDLESSCMS | API RESTFULL | GRAPHQL | GSAP/WEBGL | AGILE/SCRUM  player.
 
 <div align="center">
   <a href="https://github.com/Luiginicoletti/luiginicoletti">
