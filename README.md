@@ -31,15 +31,16 @@ REDUX | DOCKER/ | TDD | MICROSSERVICES | THREEJS/R3F | HANDLESSCMS | API RESTFUL
   <img align="center" alt="Nico-Threejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"><br>
 
 </div>
-</div>
+
 
   
 <br />
   
-<div> 
+<div style="display: inline_block">
   <a href="https://www.linkedin.com/in/luiginicolettipro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/nicolettifps" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/luiginicoletti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/nlcoletti" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
+</div>
 </div>
