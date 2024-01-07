@@ -11,7 +11,7 @@ Frontend com foco em creative & interactive web onde pretendo me especializar co
 JS/TS | REACT/NEXT | GIT | SASS/TAILWIND | REACT NATIVE
 
 ## Conhecimentos:
-REDUX | DOCKER/ | TDD | MICROSSERVICES | THREEJS/R3F | HANDLESSCMS | API RESTFULL | GRAPHQL | GSAP/WEBGL | AGILE/SCRUM
+REDUX | DOCKER | TDD | MICROSSERVICES | THREEJS/R3F | HANDLESSCMS | API RESTFULL | GRAPHQL | GSAP/WEBGL | AGILE/SCRUM
 
 <div align="center">
   <a href="https://github.com/Luiginicoletti/luiginicoletti">
