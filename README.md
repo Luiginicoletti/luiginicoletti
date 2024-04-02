@@ -7,10 +7,10 @@ Onde a determinação, o trabalho em equipe, capacidade de adaptação e resolu�
 
 Frontend com foco em creative & interactive web onde pretendo me especializar com webGl, Threejs.
 
-## Conhecimentos solidos:
+## Trabalho atualmente com:
 JS/TS | REACT/NEXT | GIT | SASS/TAILWIND | REACT NATIVE
 
-## Conhecimentos:
+## Tenho conhecimento e/ou ja trabalhei:
 REDUX | DOCKER | TDD | MICROSSERVICES | THREEJS/R3F | HANDLESSCMS | API RESTFULL | GRAPHQL | GSAP/WEBGL | AGILE/SCRUM
 
 <div align="center">
