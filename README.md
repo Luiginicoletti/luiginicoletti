@@ -5,13 +5,8 @@ Ex atleta profissional de esports, nos ultimos 5 anos dediquei-me ao cenário co
 
 Onde a determinação, o trabalho em equipe, capacidade de adaptação e resolução de problemas complexos em uma janela minúscula de oportunidade são qualidades essenciais para enfrentar desafios e alcançar resultados excepcionais.
 
-Frontend com foco em creative & interactive web onde pretendo me especializar com webGl, Threejs.
+Frontend com foco em creative & interactive web using threejs, webgl.
 
-## Trabalho atualmente com:
-JS/TS | REACT/NEXT | GIT | SASS/TAILWIND | REACT NATIVE
-
-## Tenho conhecimento e/ou ja trabalhei:
-REDUX | DOCKER | TDD | MICROSSERVICES | THREEJS/R3F | HANDLESSCMS | API RESTFULL | GRAPHQL | GSAP/WEBGL | AGILE/SCRUM
 
 <div align="center">
   <a href="https://github.com/Luiginicoletti/luiginicoletti">
